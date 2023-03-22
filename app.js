@@ -66,5 +66,3 @@ app.listen(3000, function(){
     console.log("server is running on port 3000.");
 });
 
-//apikey 219a12818595c8091a445505215df6e2-us21
-//unique id 82fc878e81
